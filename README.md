@@ -23,6 +23,7 @@ PowerShell 2.0 if possible (PowerShell 3.0 or later recommended)
 Hard disk space required (depends on download and install updates)
 
 Oldest operating systems will no longer worked?
+
 Yes. Nese Server Update Services (NSUS) is no longer works only by following lists:
 
 1. Nese Server 2003 or below
