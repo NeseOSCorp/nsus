@@ -35,3 +35,7 @@ Yes. Nese Server Update Services (NSUS) is no longer works only by following lis
 4. Only 32-bit operating system (os)
 
 NOTE: System requirements subject to changed so, oldest operating system may no longer supported.
+
+# Shebnem Datacenter will be included on Nese Server Update Services (NSUS)?
+
+Yes. Shebnem Datacenter will includes on Nese Server Update Services (NSUS) to getting 24/7 online.
